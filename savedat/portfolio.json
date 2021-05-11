@@ -1,0 +1,18 @@
+{
+    "portfolio": [
+        {
+            "name": "Bitcoin",
+            "symbol": "btc",
+            "amountHeld": 2.0,
+            "currentPrice": 16716.74,
+            "totalValue": 33433.48
+        },
+        {
+            "name": "Chainlink",
+            "symbol": "link",
+            "amountHeld": 6000.0,
+            "currentPrice": 12.91,
+            "totalValue": 77460.0
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "settings": [
+        {
+            "freeCalls": 10,
+            "historyCalls": 10,
+            "updateCalls": 80
+        }
+    ]
+}
